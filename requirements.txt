@@ -1,0 +1,8 @@
+pygame
+sounddevice
+soundfile
+simpleaudio
+requests
+spotipy
+discord.py
+argostranslate
