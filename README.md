@@ -16,16 +16,16 @@ Purpose
 
 1. Clone the repository
 
-```bashgit clone https://github.com/embdevv/jarvis.git```
+```git clone https://github.com/embdevv/jarvis.git```
 ```cd jarvis```
 
 2. Install dependencies
 
-```bashpip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 3. Configure API keys in config.py (if required)
 4. Run the assistant
-```bashpython main.py```
+```python main.py```
 
 #### How It Works
 The assistant follows a modular pattern where each feature is separated into its own module for maintainability and scalability. Voice commands are processed through speech recognition, matched against available commands, and executed accordingly.
