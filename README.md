@@ -1,4 +1,4 @@
-## JARVIS - Python Voice Assistant
+## HEYJARVIS - Python Voice Assistant
 Python-based personal voice assistant inspired by Tony Stark's J.A.R.V.I.S. (Just A Rather Very Intelligent System). Features modular architecture for easy customization and extensibility.
 Purpose
 
@@ -16,8 +16,8 @@ Purpose
 
 1. Clone the repository
 
-```git clone https://github.com/embdevv/jarvis.git```
-```cd jarvis```
+```git clone https://github.com/embdevv/heyjarvis.git```
+```cd heyjarvis```
 
 2. Install dependencies
 
